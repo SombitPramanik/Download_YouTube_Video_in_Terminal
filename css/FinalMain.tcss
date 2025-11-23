@@ -1,0 +1,30 @@
+/* The top level dialog (a Container) */
+#MainContainer,#FetchContainer,#DownloadContainer,#congrats-container {
+    width: 100%;
+    margin: 4;
+    background: $panel;
+    color: $text;
+    border: tall $background;
+    padding: 2;
+    align: center middle;
+}
+
+/* Matches the question text */
+Input {
+    text-style: bold;
+    height: auto;
+    content-align: center middle;
+}
+#TablesWrap{
+    width:100%;
+    padding: 2;
+    align: center middle;
+
+}
+
+#VideoTable,#AudioTable{
+    border: solid red;
+    width: 50%;
+    margin: 1;
+    align: center middle;
+}
