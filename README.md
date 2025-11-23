@@ -32,7 +32,7 @@ pip install textual rich pytubefix
 ### **▶ Run**
 
 ```bash
-python YoutubeFixed_Normal.py
+python main.py
 ```
 
 ---
@@ -82,15 +82,6 @@ python YoutubeFixed_Normal.py
 
 ---
 
-### **🚀 Roadmap / Future Enhancements**
-
-* [ ] Playlist + Channel downloader UI
-* [ ] Merging audio+video automatically (FFmpeg integration)
-* [ ] Multi-download queue
-* [ ] Save history of downloads
-
----
-
 ### **⚠ Notes**
 
 * This project uses **PyTubeFix**, a fork that maintains compatibility with YouTube’s frequent breaking changes.
@@ -99,16 +90,3 @@ python YoutubeFixed_Normal.py
 ```bash
 pip install --upgrade pytubefix
 ```
-
-
-
----
-
-If you'd like, I can also provide:
-
-* A **proper Wiki structure**
-* A **PyPI packaging setup (`setup.py`, `pyproject.toml`)**
-* Screenshots in ASCII style
-* A **Logo + Banner**
-
-Just say the word.
