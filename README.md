@@ -100,11 +100,7 @@ python YoutubeFixed_Normal.py
 pip install --upgrade pytubefix
 ```
 
----
 
-### **📄 License**
-
-MIT License — free to use, modify, and distribute.
 
 ---
 
